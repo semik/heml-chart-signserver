@@ -1,0 +1,6 @@
+apiVersion: v2
+appVersion: 6.0.0.1
+description: A Helm chart for running SignServer with Entrus Hardserver in Kubernetes
+name: signserver-community-helm
+type: application
+version: 1.3.2
