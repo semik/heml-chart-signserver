@@ -22,7 +22,7 @@ signserver:
   #     secretKeyRef:
   #       name: signserverdbcredentials
   #       key: database_password
-
+  sidecarContainers: []
 
 # Only one of the following services can be enabled at a time
 services:
